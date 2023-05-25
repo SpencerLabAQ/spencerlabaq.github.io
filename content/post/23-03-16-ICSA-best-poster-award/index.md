@@ -11,7 +11,7 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Daniele Di Pompeo for winning the Best Poster Award at the 2023 International Conference on Software Architecture for their poster "Multi-Objective Software Architecture Refactoring driven by Quality Attributes".
+Congratulations to Daniele Di Pompeo and Michele Tucci for winning the Best Poster Award at the 2023 International Conference on Software Architecture for their poster "Multi-Objective Software Architecture Refactoring driven by Quality Attributes".
 
 <!--more-->
 

@@ -65,8 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Team
 ---
 Daniele Di Pompeo is an Assistant Professor (RTD-a) at the University of L'Aquila, Italy. He received his Ph.D. in ICT from the University of L'Aquila in 2019.
 His research interests include model-based performance analysis, software refactoring, and search-based software engineering.
