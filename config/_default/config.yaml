@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SPENCER Lab # Website name
-baseURL: 'https://spencerlab-uaq.github.io' # Website URL
+baseURL: 'https://spencerlabaq.github.io' # Website URL
 
 ############################
 ## LANGUAGE
