@@ -5,3 +5,9 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# Python venv
+.venv
+
+# Vim
+*.swp
