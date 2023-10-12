@@ -1,0 +1,42 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "8th Workshop on Challenges in Performance Methods for Software Development:\
+  \ WOSP-C'23 Chairs' Welcome"
+subtitle: ''
+summary: ''
+authors:
+- Daniele Di Pompeo
+- Michele Tucci
+tags: []
+categories: []
+date: '2023-01-01'
+lastmod: 2023-10-12T18:00:07+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-10-12T16:00:07.201597Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Companion of the 2023 ACM/SPEC International Conference on Performance
+  Engineering, ICPE 2023, Coimbra, Portugal, April 15-19, 2023*'
+doi: 10.1145/3578245.3584847
+links:
+- name: URL
+  url: https://doi.org/10.1145/3578245.3584847
+---
