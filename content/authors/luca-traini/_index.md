@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests centre around software performance engineering, encompassing both human and technical aspects, with the goal of improving techniques and methodologies for software performance assurance.
 
 interests:
   - performance assurance processes

@@ -14,7 +14,7 @@ organizations:
   url: "https://disim.univaq.it"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include model-based performance analysis, software refactoring, and search-based software engineering.
 
 interests:
 - Performance analysis
