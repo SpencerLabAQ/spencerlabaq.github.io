@@ -21,7 +21,7 @@ do
     echo ${pid//\//_}.bib
     wget -O ./bibs/${pid//\//_}.bib "https://dblp.org/pid/${pid}.bib"
     echo "Import bib files into database"
-    academic import --bibtex ./bibs/${pid//\//_}.bib
+    academic import --bibtex ./bibs/${pid//\//_}.bib --overwrite
 done
 
 echo "Deactivating virtual environment"
