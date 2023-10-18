@@ -34,8 +34,7 @@ The selected candidate will be responsible for:
 
 ### Salary
 The position is fixed-term for one year starting December 1, 2023 or as soon as possible thereafter.
-The starting base salary will be approximately € 24.000,00 € per year before taxes (approximate monthly net income of € 1.400).
-Salary can be increased based on seniority.
+The salary will range from €24.000,00 to €32.000,00 per year before taxes (approximate monthly net income between €1.400 and €1.800), based on seniority.
 
 ### Application Instructions
 To apply for this postdoctoral fellowship, please submit the following information [here](https://forms.gle/Z5TghkGqz8Drr1zG6) (a Google account is required):
