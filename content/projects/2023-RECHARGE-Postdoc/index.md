@@ -9,12 +9,12 @@ The [Department of Information Engineering, Computer Science and Mathematics](ht
 **More information about the project can be found [here](/projects/2023-recharge)**
 
 ### Research Areas
-Candidates with expertise and interest in the following areas are encouraged to apply:
+Candidates with expertise and interest in the following software engineering areas are encouraged to apply:
 - Performance Regression Analysis
 - Software Testing
-- Software Characterization
+- Software Refactoring
 - Software Performance Monitoring
-- Software Engineering
+- Program Analysis
 
 ### Qualifications
 Candidates should meet the following qualifications:
