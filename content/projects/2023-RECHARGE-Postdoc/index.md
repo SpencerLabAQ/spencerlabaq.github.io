@@ -1,6 +1,6 @@
 ---
 title: "Postdoctoral Fellowship Call for the RECHARGE project"
-date: 2023-10-01
+date: 2023-12-20
 authors: ['vittorio-cortellessa']
 ---
 
