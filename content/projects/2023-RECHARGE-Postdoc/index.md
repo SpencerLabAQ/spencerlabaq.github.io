@@ -32,20 +32,19 @@ The selected candidate will be responsible for:
 - Disseminating research findings through publications and presentations
 - Participating in project meetings and academic activities
 
-### Salary
-The position is fixed-term for one year starting December 1, 2023 or as soon as possible thereafter.
-The salary will range from €24.000,00 to €32.000,00 per year before taxes (approximate monthly net income between €1.400 and €1.800), based on seniority.
+### Terms and Salary
+
+The position is (renewable) fixed-term for one year starting March 1st, 2024.
+
+Expressions of interest have to be manifested within January 14th, 2024, as specified here below.
+
+The salary will be €32.600,00 per year before taxes (for an approximate monthly net income of €2000).
 
 ### Application Instructions
-To apply for this postdoctoral fellowship, please submit the following information [here](https://forms.gle/Z5TghkGqz8Drr1zG6) (a Google account is required):
-- Curriculum Vitae (CV)
-- Cover Letter detailing your research interests and relevant qualifications
-- Contact information for at least two academic references
-- A list of your high-quality research publications
-- Any additional supporting documents (e.g., research statement)
-
-### Contact Information
-
-For inquiries or additional information, please, contact [Vittorio Cortellessa](/author/vittorio-cortellessa) at vittorio.cortellessa@univaq.it. 
+In case of interest, please, send an email with subject "RECHARGE postdoc" to
+[Vittorio Cortellessa](/author/vittorio-cortellessa) at vittorio.cortellessa@univaq.it, 
+with the following documents:
+- Curriculum Vitae (including a list of your high-quality research publications).
+- Cover Letter detailing your research interests and relevant qualifications for the position.
 
 *The University of L'Aquila is committed to promoting diversity and equal opportunities in research and welcomes applications from candidates of all backgrounds.*
