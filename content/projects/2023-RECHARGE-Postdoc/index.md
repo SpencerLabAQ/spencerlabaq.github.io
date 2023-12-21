@@ -36,7 +36,7 @@ The selected candidate will be responsible for:
 
 The position is (renewable) fixed-term for one year starting March 1st, 2024.
 
-Expressions of interest have to be manifested within January 14th, 2024, as specified here below.
+Expressions of interest have to be manifested by January 14th, 2024, as specified here below.
 
 The salary will be €32.600,00 per year before taxes (for an approximate monthly net income of €2000).
 
