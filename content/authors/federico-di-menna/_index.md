@@ -41,6 +41,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=PvZhKKoAAAAJ
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pid/319/9491.html
   - icon: github
     icon_pack: fab
     link: https://github.com/federix98

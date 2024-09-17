@@ -47,6 +47,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=29bCFb4AAAAJ
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pid/76/1930-1.html
   - icon: github
     icon_pack: fab
     link: https://github.com/mtucci

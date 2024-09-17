@@ -47,6 +47,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=E2dr5vIAAAAJ&hl
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pid/171/1962.html
   - icon: github
     icon_pack: fab
     link: https://github.com/danieledipompeo
