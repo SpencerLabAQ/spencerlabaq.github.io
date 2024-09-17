@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/mailto:muhammadwaheed.khan@graduate.univaq.it'  # For a direct email link, use "mailto:daniele.dipompeo@univaq.it"
+    link: 'mailto:muhammadwaheed.khan@graduate.univaq.it'  # For a direct email link, use "mailto:daniele.dipompeo@univaq.it"
   - icon: github
     icon_pack: fab
     link: https://github.com/waheed-sep
