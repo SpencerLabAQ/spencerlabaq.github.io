@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: An Approach Using Performance Models for Supporting Energy Analysis of Software
   Systems
-subtitle: ''
-summary: ''
 authors:
 - Vincenzo Stoico
 - Vittorio Cortellessa
@@ -12,31 +8,10 @@ authors:
 - Daniele Di Pompeo
 - Luigi Pomante
 - Patricia Lago
-tags: []
-categories: []
 date: '2023-01-01'
-lastmod: 2023-10-13T09:28:48+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-10-13T07:29:31.761862Z'
+publishDate: '2024-09-19T12:50:39.854317Z'
 publication_types:
-- '1'
-abstract: ''
+- paper-conference
 publication: '*Computer Performance Engineering and Stochastic Modelling - 19th European
   Workshop, EPEW 2023, and 27th International Conference, ASMTA 2023, Florence, Italy,
   June 20-23, 2023, Proceedings*'

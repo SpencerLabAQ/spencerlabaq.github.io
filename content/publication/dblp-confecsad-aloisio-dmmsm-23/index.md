@@ -9,7 +9,7 @@ authors:
 - Giovanni Stilo
 - Antinisca Di Marco
 date: '2023-01-01'
-publishDate: '2024-09-17T11:51:02.553679Z'
+publishDate: '2024-09-19T12:50:38.801951Z'
 publication_types:
 - paper-conference
 publication: '*Software Architecture. ECSA 2023 Tracks, Workshops, and Doctoral Symposium

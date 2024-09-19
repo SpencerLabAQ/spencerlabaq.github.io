@@ -1,38 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Challenges in Applying Control Theory to Software Performance Engineering for
   Adaptive Systems
-subtitle: ''
-summary: ''
 authors:
 - Davide Arcelli
 - Vittorio Cortellessa
-tags: []
-categories: []
 date: '2016-01-01'
-lastmod: 2023-10-13T09:28:56+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-10-13T07:28:55.875506Z'
+publishDate: '2024-09-19T12:50:43.053242Z'
 publication_types:
-- '1'
-abstract: ''
+- paper-conference
 publication: '*Companion Publication for ACM/SPEC on International Conference on Performance
   Engineering, ICPE 2016 Companion, Delft, The Netherlands, March 12-16, 2016*'
 doi: 10.1145/2859889.2859894

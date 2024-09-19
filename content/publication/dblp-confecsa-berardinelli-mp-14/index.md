@@ -1,39 +1,14 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: fUML-Driven Design and Performance Analysis of Software Agents for Wireless
   Sensor Network
-subtitle: ''
-summary: ''
 authors:
 - Luca Berardinelli
 - Antinisca Di Marco
 - Stefano Pace
-tags: []
-categories: []
 date: '2014-01-01'
-lastmod: 2023-10-13T09:29:21+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-10-13T07:29:21.615457Z'
+publishDate: '2024-09-19T12:50:38.952210Z'
 publication_types:
-- '1'
-abstract: ''
+- paper-conference
 publication: '*Software Architecture - 8th European Conference, ECSA 2014, Vienna,
   Austria, August 25-29, 2014. Proceedings*'
 doi: 10.1007/978-3-319-09970-5_28

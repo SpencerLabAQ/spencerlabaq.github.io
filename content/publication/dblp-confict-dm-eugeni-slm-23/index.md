@@ -6,7 +6,7 @@ authors:
 - Donato Di Ludovico
 - Antinisca Di Marco
 date: '2023-01-01'
-publishDate: '2024-09-17T11:51:02.561774Z'
+publishDate: '2024-09-19T12:50:38.813996Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Information and Communication Technologies

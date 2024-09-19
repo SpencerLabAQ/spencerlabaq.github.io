@@ -1,39 +1,14 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Enhancing Trace Visualizations for Microservices Performance Analysis
-subtitle: ''
-summary: ''
 authors:
 - Jessica Léone
 - Luca Traini
-tags: []
-categories: []
 date: '2023-01-01'
-lastmod: 2023-10-13T09:29:45+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2023-10-13T07:29:45.498642Z'
+publishDate: '2024-09-19T12:50:41.219966Z'
 publication_types:
-- '2'
-abstract: ''
+- article-journal
 publication: '*CoRR*'
-doi: 10.48550/arXiv.2302.12734
+doi: 10.48550/ARXIV.2302.12734
 links:
 - name: URL
   url: https://doi.org/10.48550/arXiv.2302.12734

@@ -7,7 +7,7 @@ authors:
 - Riccardo Rubei
 - Luca Traini
 date: '2024-01-01'
-publishDate: '2024-09-17T11:51:04.492856Z'
+publishDate: '2024-09-19T12:50:41.202207Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 28th International Conference on Evaluation and

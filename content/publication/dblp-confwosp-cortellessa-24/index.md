@@ -4,7 +4,7 @@ title: "25+ years of Software Performance: From Integrated System Modelling to M
 authors:
 - Vittorio Cortellessa
 date: '2024-01-01'
-publishDate: '2024-09-17T11:51:06.365128Z'
+publishDate: '2024-09-19T12:50:43.001019Z'
 publication_types:
 - paper-conference
 publication: '*Companion of the 15th ACM/SPEC International Conference on Performance
