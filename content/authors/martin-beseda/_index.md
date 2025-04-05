@@ -47,7 +47,7 @@ social:
     link: 'mailto:martin.beseda@univaq.it' 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=PvZhKKoAAAAJ
+    link: https://scholar.google.com/citations?user=FjeCi1gAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/MartinBeseda
