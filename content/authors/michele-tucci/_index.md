@@ -71,4 +71,4 @@ user_groups:
   - Team
 ---
 
-Michele Tucci is an Assistant Professor in the Department of Information Engineering, Computer Science and Mathematics at the University of L'Aquila, Italy. His research interests include performance regression testing, software refactoring, and optimization of software architectures towards quality aspects. He is currently supported by the project: <a href="http://sobigdata.eu">SoBigData.it</a> - Strengthening the Italian RI for Social Mining and Big Data Analytics.
+Michele Tucci is an Assistant Professor in the Department of Information Engineering, Computer Science and Mathematics at the University of L'Aquila, Italy. His research interests include performance regression testing, software refactoring, and optimization of software architectures towards quality aspects.
