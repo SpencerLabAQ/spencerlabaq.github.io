@@ -73,7 +73,7 @@ user_groups:
   - Team
 ---
 
-Muhammad Imran is a PhD student at the University of L'Aquila, Italy.
+Muhammad Imran is a Postdoc researcher at the University of L'Aquila, Italy.
 
 He is focused on advancing techniques and methodologies in software performance assurance, with a specialization in performance testing, debugging, and exploring the intersection of software maintenance and performance optimization. His research spans software performance engineering, static and dynamic code analysis, machine learning, and large language models (LLMs). With extensive experience in software engineering and development, he has contributed to significant projects such as the Budget Management System for the Pakistan Navy and the “Storage Edge” SharePoint optimization product.
 
