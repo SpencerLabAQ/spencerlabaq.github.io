@@ -6,7 +6,7 @@ title: Muhammad Imran
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc researcher
 
 # Organizations/Affiliations
 organizations:
