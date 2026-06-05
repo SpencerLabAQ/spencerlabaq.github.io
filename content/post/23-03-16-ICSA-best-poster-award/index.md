@@ -1,6 +1,7 @@
 ---
 title: Daniele Di Pompeo and Michele Tucci won the Best Poster Award at ICSA 2023
 date: 2023-03-16
+expiryDate: 2024-03-16
 authors: ['daniele-di-pompeo']
 links:
   - icon_pack: fab
