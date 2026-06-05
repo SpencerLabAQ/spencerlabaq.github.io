@@ -38,12 +38,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: id-card
+    icon_pack: fas
+    link: https://mtucci.github.io
   - icon: envelope
     icon_pack: fas
     link: 'mailto:michele.tucci@univaq.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/real_mtucci
+    link: https://x.com/real_mtucci
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=29bCFb4AAAAJ
