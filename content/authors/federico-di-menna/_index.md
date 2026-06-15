@@ -6,7 +6,7 @@ title: Federico Di Menna
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://disim.univaq.it"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AIOps for performance engineering.
+bio: My research interests include AI for software performance engineering.
 
 interests:
 - Performance analysis
@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. in Information and Communication Technology
+    institution: University of L'Aquila
+    year: 2026
   - course: M.Sc. in Computer Science
     institution: University of L'Aquila
     year: 2022
@@ -64,8 +67,8 @@ highlight_name: false
 user_groups:
 - Team
 ---
-Federico Di Menna is an industrial PhD Student at the University of L'Aquila, Italy.
+Federico Di Menna is an Postdoctoral Researcher at the University of L'Aquila, Italy. He received his Ph.D. in ICT from the University of L'Aquila in 2026.
 
-His primary research focus centers on the domains of AIOps (Artificial Intelligence for Operations) applied to Performance Engineering and data-driven monitoring for industrial processes, aiming to advance performance and quality assurance techniques for software-hardware systems. He is committed to collaborating with industry professionals to ensure the practical applicability and real-world impact of research findings.
+His primary research focus centers on the domains of AIOps (Artificial Intelligence for Operations) applied to Software Performance Engineering and data-driven monitoring for industrial processes, aiming to advance performance and quality assurance techniques for software-hardware systems. He is committed to collaborating with industry professionals to ensure the practical applicability and real-world impact of research findings.
 
 He is a member of the <a href="https://spencerlab-uaq.github.io" target="_blank">SPENCER</a> research group.
