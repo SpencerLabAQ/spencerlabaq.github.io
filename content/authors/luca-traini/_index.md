@@ -6,7 +6,7 @@ title: Luca Traini
 superuser: true
 
 # Role/position
-role: Postdoc researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -14,11 +14,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests centre around software performance engineering, encompassing both human and technical aspects, with the goal of improving techniques and methodologies for software performance assurance.
+bio: My research interests are performance engineering, AI for software engineering, and empirical software engineering.
 
 interests:
-  - performance assurance processes
-  - performance testing and debugging
+  - performance engineering
+  - AI for software engineering
   - empirical software engineering
 
 education:
@@ -35,6 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+ - icon: id-card
+    icon_pack: fas
+    link: https://lucatraini.me
   - icon: envelope
     icon_pack: fas
     link: 'mailto:luca.traini@univaq.it'
@@ -75,9 +78,6 @@ user_groups:
   - Team
 ---
 
-Luca Traini is a postdoctoral researcher at the Department of Computer Science 
+Luca Traini is an Assistant Professor at the Department of Computer Science 
 and Engineering, and Mathematics of University of L’Aquila, and member of the 
-SPENCER (Software PErformaNCe EngineeRing) laboratory. His research interests 
-centre around software performance engineering, encompassing both human and 
-technical aspects, with the goal of improving techniques and methodologies for 
-software performance assurance.
+SPENCER (Software PErformaNCe EngineeRing) laboratory.
