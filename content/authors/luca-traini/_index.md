@@ -35,7 +35,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
- - icon: id-card
+  - icon: id-card
     icon_pack: fas
     link: https://lucatraini.me
   - icon: envelope
