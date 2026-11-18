@@ -1,51 +1,80 @@
 ---
 # Display name
-title: Ayaz Ahmed
+Title: Ayaz Ahmed
 
 # Is this the primary user of the site?
-superuser: false
+Superuser: false
 
 # Role/position
-role: PhD Student
+Role: Ph.D. Student
 
 # Organizations/Affiliations
-organizations:
-- name: University of L'Aquila
-  url: "https://disim.univaq.it"
+Organizations:
+- Name: University of L'Aquila
+  URL: "https://disim.univaq.it"
 
 # Short bio (displayed in user profile at end of posts)
-Bio: My research focuses on the automated generation and optimization of testing scenarios for Advanced Driver Assistance Systems (ADAS).
+Bio: My research interests include search-based testing of autonomous driving and ADAS through scenario-based simulation.
 
-interests:
-- ADAS testing
-- Scenario-based testing
-- Search-based software engineering
-- Simulation-based testing
+Interests:
+- Search-based Software Testing
+- Testing of Autonomous Driving and ADAS
+- Scenario-based Simulation Testing (Scenic, CARLA, MetaDrive)
 
-education:
-  courses:
-  - course: M.Sc. in Computer Science
-    institution: COMSATS University Islamabad, Wah Campus
-    year: 2022
+Education:
+  Courses:
+  - Course: Ph.D. in Information and Communication Technology (2025 – expected 2028)
+    Institution: University of L'Aquila
+    Year: 2028
+  - Course: M.Sc. in Computer Science
+    Institution: COMSATS University Islamabad, Wah Campus
+    Year: 2022
 
 # Social/Academic Networking
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:YOUR-EMAIL@graduate.univaq.it'
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+Social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ayaz.ahmed@graduate.univaq.it'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ayaz-ahmed-b270101a1/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AyazHere
+# Add these once you have them:
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=YOUR_ID
+#  - icon: orcid
+#    icon_pack: ai
+#    link: https://orcid.org/YOUR_ID
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+Email: 'mailto:ayaz.ahmed@graduate.univaq.it'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+Highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-user_groups:
+#   Set this to `[]` or comment out if you are not using People widget.
+User_groups:
 - Team
 ---
-Ayaz Ahmed is a PhD Student in ICT at the University of L'Aquila, Italy, working within the MEDITATE project under the supervision of Daniele Di Pompeo.
 
-His research focuses on the automated generation and optimization of testing scenarios for Advanced Driver Assistance Systems (ADAS).
+> *Every car on the road today was tested on scenarios someone thought of. Ayaz works on finding the ones nobody thought of.*
 
-He is a member of the <a href="https://spencerlab-uaq.github.io" target="_blank">SPENCER</a> research group.
+**Ayaz Ahmed** is a Ph.D. student in Information and Communication Technology at the University of L'Aquila, Italy, supervised by Daniele Di Pompeo. He joined in November 2025 after an M.Sc. in Computer Science from COMSATS University Islamabad, Wah Campus (2022).
+
+A driver-assistance system can drive a million kilometres without trouble and then fail at one odd junction, in fog, with a cyclist cutting in. Finding that junction on a real road is slow, expensive and dangerous. Ayaz's research finds it in simulation instead. He uses **search-based testing** to automatically generate driving scenarios that push **ADAS (Advanced Driver Assistance Systems)** toward failure. The scenarios are written in **Scenic** and run in **CARLA** and **MetaDrive**, so a crash in the virtual world can become a fix in the real one.
+
+**What he's working on now**
+- **Automated scenario generation** for ADAS testing within the EU/MUR PNRR-funded **MEDITATE** project
+- **Turning standard OpenSCENARIO scenarios into Scenic**, so existing industry test cases can run in research simulators
+
+He is a member of the <a href="https://spencerlab-uaq.github.io" target="_blank">SPENCER</a> research group, and is always happy to talk with people from industry and academia about testing autonomous driving systems.
